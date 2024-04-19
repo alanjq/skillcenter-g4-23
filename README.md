@@ -2,10 +2,24 @@
 
 Herramientas en windows
 
-https://chocolatey.org/install
+[Chocolatey](https://chocolatey.org/install)
 
-https://reactnative.dev/
+[React Native](https://reactnative.dev/)
 
-https://developer.android.com/studio?hl=es-419
+[Android Studio](https://developer.android.com/studio?hl=es-419)
 
-https://reactnativeelements.com/docs/components/header
+[React Native Elements (Biblioteca de interfaz)](https://reactnativeelements.com/docs/components/header)
+
+
+> Abril - Mayo 2024
+
+[Lista de reproducción: React Avanzado G3-24](https://youtube.com/playlist?list=PLXDgesVAFKPYclBHwAwnDbkpp84mb53XW&si=cubgJkME-puzu_8Z)
+
+### Sesión 1 - Configuración del entorno y primeros pasos
+
+[Ver sesión 1](https://youtu.be/1mJozi_xmbs)
+
+### Sesión 2 - Configuración de depuración y hooks
+
+[Ver sesión 2](https://youtu.be/10VZnZTEwJA)
+
