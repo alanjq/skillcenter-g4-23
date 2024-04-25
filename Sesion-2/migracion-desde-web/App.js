@@ -6,7 +6,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Despedida nombre="Sergio" />
+      <Despedida nombre="Ivy" />
+
       <Saludo nombre="Ivy" />
+      <Saludo nombre="Sergio" />
     </View>
   );
 }

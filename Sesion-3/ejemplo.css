@@ -1,0 +1,6 @@
+/* Estilos en CSS */
+.mi-clase {
+    display: flex;
+    text-align: center;
+    border-color: #F00;
+}

@@ -23,3 +23,6 @@ Herramientas en windows
 
 [Ver sesión 2](https://youtu.be/10VZnZTEwJA)
 
+### Sesión 3 - Componentes de React Native
+
+[Ver sesión 3](https://youtu.be/RfCpjeiAdh8)
