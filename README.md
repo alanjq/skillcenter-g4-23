@@ -26,3 +26,7 @@ Herramientas en windows
 ### Sesión 3 - Componentes de React Native
 
 [Ver sesión 3](https://youtu.be/RfCpjeiAdh8)
+
+### Sesión 4 - Creando apps con React Native
+
+[Ver sesión 4](https://youtu.be/wlnlmky9zoA)
