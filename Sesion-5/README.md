@@ -1,5 +1,1 @@
-# APIS
-
-## Monedas
-
-https://api.coindesk.com/v1/bpi/currentprice.json
+# Se combina con Sesión 6
