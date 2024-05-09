@@ -30,3 +30,13 @@ Herramientas en windows
 ### Sesión 4 - Creando apps con React Native
 
 [Ver sesión 4](https://youtu.be/wlnlmky9zoA)
+
+### Sesión 5-6 - Eventos, estado y contexto
+
+[Ver sesión 5](https://youtu.be/t34gO8TAAlE)
+
+### Sesión 7-8 - Hoy 7pm TCM
+
+_Pendiente por subir._
+<!-- [Ver sesión 5](https://youtu.be/t34gO8TAAlE) -->
+
